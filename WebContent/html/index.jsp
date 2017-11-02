@@ -31,7 +31,7 @@
     <a href="#" class="brand-logo">Financial Planner App</a>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
       <li><a href="info.jsp">About Us</a></li>
-      <li><a href="#">Link 2</a></li>
+      <li><a href="contact-us.jsp">Contact Us</a></li>
       <li><a href="#">Link 3</a></li>
     </ul>
   </div>
